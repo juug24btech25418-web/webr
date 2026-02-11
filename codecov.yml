@@ -6,4 +6,4 @@ coverage:
       default:
         target: auto # auto % coverage target
         threshold: 5%  # allow for 5% reduction of coverage without failing
-    patch: false # do not run coverage on patch nor changes
+    
